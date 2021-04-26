@@ -1,4 +1,5 @@
 # mini-Projects
+For Python Study
 
 ### 01. snake
 $ pip install pygame
